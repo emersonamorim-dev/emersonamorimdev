@@ -1,3 +1,7 @@
+### Olá, sou o Emerson Amorim
+
+Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Virtuais, E-commerce e Aplicativos.
+
 - 👋 Hi, I’m @emersonrockman
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

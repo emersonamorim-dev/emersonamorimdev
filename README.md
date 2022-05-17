@@ -2,7 +2,7 @@
 
 Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Virtuais, E-commerce e Aplicativos.
 
-- 👋 Hi, I’m @emersonrockman
+- 👋 Hi, I’m @emersonamorimdev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,6 +15,6 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 
 
 <!---
-emersonrockman/emersonrockman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+emersonamorimdev/emersonamorimdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

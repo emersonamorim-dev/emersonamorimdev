@@ -15,6 +15,6 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 
 
 <!---
-emersonamorimdev/emersonamorimdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+emersonamorim-dev/emersonamorim-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

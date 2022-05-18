@@ -11,9 +11,6 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonamorim-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=compact&langs_count=6&theme=algolia"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonamorim-dev&show_icons=true&theme=radical)
-
 </div>
 
 
